@@ -1,3 +1,3 @@
 # simple
-exemple
-simple projcet start
+exemple\n
+simple projcet start\n
